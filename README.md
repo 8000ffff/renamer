@@ -10,7 +10,7 @@ affects all files in the current directory (where the script is in)
 
 ps:
 
-type 0 for exit or go back to the main menu
+type 0 to exit or go back to the main menu
 
 pps:
 
